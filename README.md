@@ -10,7 +10,7 @@ The file "Data.ipynb" contains code to load images from online and resize them t
 
 The "labels.json" file contains Y-labels for input data
 
-The "snapshots" folder contains some pre-trained weights. Note that currently, we do not have any weights in the snapshots folder which yield high accuracy when used for forward propogation.
+The "snapshots" folder contains some pre-trained weights.
 
 ## What we plan to make for our other models
 
